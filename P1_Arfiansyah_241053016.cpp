@@ -3,7 +3,7 @@
 #include <iomanip>
 
 using namespace std;
-
+//ASDASDASDASDSADASDASDADASDASDSADAS
 struct KTPNode {
     string nama;
     string nik;
