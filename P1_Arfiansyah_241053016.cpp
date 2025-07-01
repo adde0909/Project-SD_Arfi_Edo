@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <iomanip>
-//sdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+
 using namespace std;
 //ASDASDASDASDSADASDASDADASDASDSADAS
 struct KTPNode {
