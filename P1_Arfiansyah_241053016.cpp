@@ -20,6 +20,7 @@ public:
         front = nullptr;
         rear = nullptr;
     }
+//asdasdadasdACsvBZKSHV ZKYBVSJHDVLsh DVLiu
 
     ~KTPQueue() {
         while (front != nullptr) {
