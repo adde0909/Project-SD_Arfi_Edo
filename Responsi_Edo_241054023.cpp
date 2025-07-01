@@ -11,6 +11,7 @@ typedef struct
     string jurusan;
     string th_masuk;
 } rec_mahasiswa;
+//UYGOUBIYVGI
 
 typedef rec_mahasiswa larik_mahasiswa[20];
 
