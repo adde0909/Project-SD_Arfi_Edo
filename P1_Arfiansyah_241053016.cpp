@@ -9,7 +9,7 @@ struct KTPNode {
     string nik;
     KTPNode* next;
 };
-//HBKHBHBKHBKYVKBUBH
+//HBKHBHBKHBKYVKBUBHcjkvhvk,
 class KTPQueue {
 private:
     KTPNode* front;
