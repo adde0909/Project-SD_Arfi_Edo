@@ -311,6 +311,8 @@ void edit_keluhan(pelanggan *&F_Pelanggan, pelanggan *&T_Pelanggan){
 int main(){
     front_pelanggan = nullptr;
     tail_pelanggan = nullptr;
+    front_stock = nullptr;
+    tail_stock = nullptr;
     int pil=0;
     do{
         system("cls");
@@ -388,5 +390,7 @@ int main(){
     
     delete front_pelanggan;
     delete tail_pelanggan;
+    delete front_stock;
+    delete tail_stock;
 
 }
