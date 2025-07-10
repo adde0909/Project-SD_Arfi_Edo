@@ -195,7 +195,7 @@ void transaksi_sparepart(stock *&F_Stock, stock *&T_Stock){
                
                     pendapatan = pendapatan + harga;
                
-                    sparepart->jml_stock - jumlah;
+                    sparepart->jml_stock = sparepart->jml_stock - jumlah;
                }
             }
         }
