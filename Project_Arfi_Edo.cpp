@@ -198,7 +198,9 @@ int main(){
             break;
 
         case 0:
-            cout << "Terimakasih\n";
+            cout << endl;
+            cout << "###TERIMAKASIH TELAH MENGGUNAKAN PROGRAM INI !!!###\n";
+            cout << endl;
             break;
         
         default:
